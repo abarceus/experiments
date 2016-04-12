@@ -29,7 +29,7 @@ outline-offset: -9px;
 }
 #outside-title {
   color: black;
-  font-family: Courier;
+  font-family: ;
   font-size: 12pt;
   text-align: center;
 }
@@ -38,7 +38,7 @@ outline-offset: -9px;
 }
 #outside-help {
   color: black;
-  font-family: Courier;
+  font-family:lucida handwritten ;
   font-size: 12pt;
   text-align: center;
   padding: 20px;
