@@ -21,16 +21,17 @@
 }
 #outside-title {
   color: black;
-  font-family: Courier;
+  font-family: ;
   font-size: 12pt;
   text-align: center;
 }
 #outside-pic {
-  
+border:5px double black; 
+
 }
 #outside-help {
   color: black;
-  font-family: Courier;
+  font-family: ;
   font-size: 12pt;
   text-align: center;
   padding: 20px;
@@ -45,7 +46,7 @@
 }
 #inside-title {
   color: black;
-  font-family: Courier;
+  font-family: ;
   font-size: 12pt;
   text-align: center;
 }
@@ -55,7 +56,7 @@
 }
 #message {
   color: black;
-  font-family: Courier;
+  font-family: ;
   font-size: 12pt;
   text-align: center;
 }
