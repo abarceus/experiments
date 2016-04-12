@@ -1,7 +1,15 @@
+html {
+  border: 1px double black;
+outline: 2px solid black;
+outline-offset: -9px;
+}
+
+
+
 #outside {
   z-index: 1;
   position: absolute;
-  background-color: lightgray;
+  background-color:#FFD700;
   width: 100%;
   height: 100%;
   text-align: center;
@@ -26,8 +34,7 @@
   text-align: center;
 }
 #outside-pic {
-  width: 150px;
-  height: 150px;
+  border
 }
 #outside-help {
   color: black;
@@ -46,8 +53,8 @@
 }
 #inside-title {
   color: black;
-  font-family: Courier;
-  font-size: 12pt;
+  font-family:lucida handwritten ;
+  font-size: 15pt;
   text-align: center;
 }
 #inside-pic {
@@ -56,8 +63,8 @@
 }
 #message {
   color: black;
-  font-family: Courier;
-  font-size: 12pt;
+  font-family:lucida handwritten ;
+  font-size: 15pt;
   text-align: center;
 }
 button {
