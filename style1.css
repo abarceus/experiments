@@ -1,11 +1,10 @@
 html{
 
 text-align:center;
-}
-.background {
-    background:url('2016MahimaRecitalFlyer-page-001.jpg')width:175%;
-    position: relative;
-    
+background:url('2016MahimaRecitalFlyer-page-001.jpg') center center no-repeat;
+position: relative;
+min-height:100%;
+background-size:cover;    
 }
 
 .layer {
