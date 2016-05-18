@@ -3,9 +3,9 @@ html{
 text-align:center;
 }
 .background {
-    background:url('2016MahimaRecitalFlyer-page-001.jpg');
-    position: relative
-    ;size:fill;
+    background:url('2016MahimaRecitalFlyer-page-001.jpg')width:175%;
+    position: relative;
+    
 }
 
 .layer {
